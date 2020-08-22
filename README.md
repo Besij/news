@@ -24,3 +24,7 @@ Newspaper web application (Django for beginners book)
 - Updated ArticleCreateView, added feature to automatically set author of the article to user which login 
 - Imported Mixin to check login status and redirect user to login page when user try to create/see the list of articles/see detail page/update/delete articles
 - Added feature to leave a comments in django-admin panel
+
+
+
+![Screenshot](image.png)
